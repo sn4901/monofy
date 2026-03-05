@@ -6,6 +6,10 @@ The use case for this is when you run Ableton's "Bounce in Place", it bounces as
 
 When you set the .exe as your Sample Editor in Ableton (Settings > File & Folder > Sample Editor) the "Edit" button on the sample becomes a 1 click mono button. The original file gets sent to the Recycle Bin and a new one is saved in place.
 
+## Disclaimer
+
+ChatGPT was used in the making of this script. A human programmer (me) did parse through it line-by-line, made some changes, and didn't find any glaring issues, but that's not good enough. Run at your own risk, check the source code yourself, compile it yourself, run *every* software at your own risk, etc.
+
 ## Requirements
 
 ### 1) FFmpeg
